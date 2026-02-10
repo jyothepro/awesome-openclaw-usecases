@@ -11,7 +11,7 @@
 <br />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Use Cases](https://img.shields.io/badge/usecases-11-blue?style=flat-square)
+![Use Cases](https://img.shields.io/badge/usecases-12-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/hesamsheikh/awesome-openclaw-usecases?label=Last%20Update&style=flat-square)
 </div>
 
@@ -19,12 +19,15 @@
 
 Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **ways it can improve your life**. This is a community collection of real-life use cases for [OpenClaw](https://github.com/openclaw/openclaw).
 
+> **Warning:** OpenClaw skills may have critical security vulnerabilities. Review any skill thoroughly before use, you are responsible for your own safety.
+
 
 ## Social Media
 
 | Name | Description |
 |------|-------------|
 | [Daily Reddit Digest](usecases/daily-reddit-digest.md) | Summarize a curated digest of your favourite subreddits, based on your preferences. |
+| [Daily YouTube Digest](usecases/daily-youtube-digest.md) | Get daily summaries of new videos from your favorite channels — never miss content from creators you follow. |
 | [X Account Analysis](usecases/x-account-analysis.md) | Get a qualitative analysis of your X account.|
 
 ## Creative & Building
@@ -38,11 +41,14 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 
 | Name | Description |
 |------|-------------|
+| [Phone-Based Personal Assistant](usecases/phone-based-personal-assistant.md) | Access your AI agent via phone calls, hands-free voice assistance for any phone. |
 | [Inbox De-clutter](usecases/inbox-declutter.md) | Summarize Newsletters and send you a digest as an email. |
 | [Personal CRM](usecases/personal-crm.md) | Automatically discover and track contacts from your email and calendar, with natural language queries. |
 | [Health & Symptom Tracker](usecases/health-symptom-tracker.md) | Track food intake and symptoms to identify triggers, with scheduled check-in reminders. |
 | [Multi-Channel Personal Assistant](usecases/multi-channel-assistant.md) | Route tasks across Telegram, Slack, email, and calendar from a single AI assistant. |
 | [Todoist Task Manager](usecases/todoist-task-manager.md) | Maximize agent transparency by syncing reasoning and progress logs to Todoist. |
+| [Phone-Based Personal Assistant](usecases/phone-based-personal-assistant.md) | Access OpenClaw from any phone via voice call or SMS. Get calendar updates, Jira tickets, and web search results hands-free. |
+
 
 ## Research & Learning
 
@@ -59,3 +65,5 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - Improve existing ones
 
 > Please only submit usecases you have already worked with and verified that works (at least for a day). We value real ideas that make our lives actually better, not worse!
+>
+> **Note:** We do not accept use cases related to crypto.
